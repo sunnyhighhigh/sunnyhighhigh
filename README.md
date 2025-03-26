@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sunnyhighhigh
+- 👋 Hi, I’m @sunnyhigh
 - 👀 I’m interested in getting experience in embedded software
 - 🌱 I’m currently practising programming in python and C 
 - 💞️ I’m looking to collaborate on gaining experience in embedded system
-- 📫 Reach me at jameslastforeveryoung@gmail.com..
+- 📫 Reach me at begoodtoyouandother@gmail.com.
 - 😄 Pronouns: Mr...
 - ⚡ Fun fact: love reading
 
